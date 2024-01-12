@@ -1,4 +1,9 @@
-load("exampledata.mat");
+addpath 'D:\MATLAB_Analysis\Pre+process\Fncs\Run_tuning\testing_model_helper_fns\whisker_position_decoding_model\github_files\raw_data'
+load("params.mat");
+load("run_speed.mat");
+load("SpikeTimes.mat");
+load("trial_times.mat");
+load("whisker_position.mat");
 
 % get bins
 bin_res = .015;
