@@ -7,7 +7,7 @@ load("whisker_position.mat");
 
 % get bins
 bin_res = .015;
-bins = 0:bin_res:params.time_ref(end);
+bins = 0:bin_res:params.recording_endtime;
 nBins = 11; %has to be an oddnumber % number of spike bins of size bin_res to use for decoding single feature bins
 
 % bin feature and neuron data
