@@ -17,6 +17,6 @@ Two files are required to run the decoder in Python
 ![My Image](images/decoding_locomotion_speed.png)
 <br>
 <br>
-/><br><br>
-/><br><br>
+<br><br>
+<br><br>
 ![My Image](images/decoding_position.png)
