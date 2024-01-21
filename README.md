@@ -1,3 +1,6 @@
-# self-motion_decoding_model
-A regression model that can decode whisker position and locomotion speed from neuronal spikes.
+# Neural decoding model
+### A Python and MATLAB package for decoding neural activity and predicting body position
+A regression model that can decode whisker position and locomotion speed from neuronal spike times.
 There are both Python and MATLAB versions of this code. 
+
+## Getting started
