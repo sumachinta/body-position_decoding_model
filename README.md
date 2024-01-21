@@ -12,3 +12,6 @@ Two files are required to run the decoder in Python
 ### Running in MATLAB
  - **`runfile.m`** allows you to run through the whole process of decoding from start to finish.
  - Rest of the .m files are the functions used in the main file.
+
+![My Image](images/decoding_locomotion_speed.png)
+![My Image](images/decoding_position.png)
