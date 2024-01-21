@@ -4,3 +4,6 @@ A regression model that can decode whisker position and locomotion speed from ne
 There are both Python and MATLAB versions of this code. 
 
 ## Getting started
+### Running in Python
+Two files are required to run the decoder in Python
+ - **'runfile.ipynb
