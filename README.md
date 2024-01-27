@@ -8,6 +8,7 @@ The folder raw_data contains some sample data to get started. I would suggest ru
 ### Running in Python
 Two files are required to run the decoder in Python
  - **`runfile.ipynb`** is a notebook that allows you to run through the whole process of decoding from start to finish.
+ - **`pick_n_bins.ipynb`** is a notebook that allows you to decide how many surrounding bins around the current time t to choose for decoding.
  - **`functions.py`** contains all the backend functions that are used in the notebook. To adjust parameters for the machine learning model, you might have to tweak through these. 
 ### Running in MATLAB
  - **`runfile.m`** allows you to run through the whole process of decoding from start to finish.
